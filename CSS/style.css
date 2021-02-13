@@ -1,6 +1,35 @@
 
-h1 {color :rgb(44, 42, 165); text-align: center;}
 
-h2 { color: rgb(44, 42, 165);}
-p {color: rgb(44, 42, 165);}
-body {background-color: bisque;}
+h1 {color :#002642; text-align: center;
+  font-family: 'Sriracha', cursive;
+  background: color #E5DADA;
+}
+
+h2 { color: #002642;
+  font-family: 'Sriracha', cursive;
+  background: color #E5DADA;
+}
+p {color: #02040F}
+body {background: color #E5DADA;
+  font-family: 'Sriracha', cursive;
+}
+
+img { max-width: 100%;
+    height: auto;
+
+}
+
+
+h3 {
+  
+  font-family: 'Sriracha', cursive;
+  text-align: center;
+  border-width: 2px;
+  border: 5px; 
+  border-style:solid; 
+  border-color: #E59500 ; padding: 6px;
+  }
+  
+
+  
+  
