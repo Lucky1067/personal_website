@@ -9,13 +9,41 @@ h2 { color: #002642;
   font-family: 'Sriracha', cursive;
   background: color #E5DADA;
 }
-p {color: #02040F}
+nav {
+  text-align: center;
+  position: fixed;
+  top: 0;
+  z-index: 50;
+  font-family: 'Sriracha', cursive;
+  text-align: center;
+  border-width: 2px;
+  border: 5px; 
+  border-style:solid; 
+  border-color: #E59500 ; padding: 6px;
+  background-color: #E5DADA;
+  display: contents flex;
+  justify-content: center;
+  
+  
+ 
+}
+
+
+
+
+p {color: #02040F;
+  
+  
+}
 body {background: color #E5DADA;
   font-family: 'Sriracha', cursive;
+  
 }
 
 img { max-width: 100%;
     height: auto;
+    float: left;
+    max-block-size: 250px;
 
 }
 
@@ -31,5 +59,7 @@ h3 {
   }
   
 
-  
+  ul { 
+    text-align: center;
+  }
   
